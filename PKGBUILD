@@ -1,4 +1,4 @@
-# Maintainer: leux08 <leoluniere@proton.me>
+# Maintainer: leux08 <contato@leux08.dev.br>
 pkgname=pixieditor-bin
 _pkgname=pixieditor
 pkgver=2.0.1.6
